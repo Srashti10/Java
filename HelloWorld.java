@@ -5,7 +5,7 @@ public class HelloWorld{   // HelloWorld is the name of the class, which is same
         //main is function, void means it is not returning any value,
         // public is access modifier, 
         //static is used to use the function independently without object and still residr in the class.
-        System.out.println("Hello World");
+        System.out.println("Hello World!");
     }
 }
 
