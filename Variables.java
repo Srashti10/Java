@@ -1,7 +1,7 @@
 public class Variables{
     public static void main(){
-        int a = 20;
-        int b = 30;
+        int a = 2;
+        int b = 3;
         System.out.println(a+b);
     }
 }
