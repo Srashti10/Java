@@ -11,10 +11,10 @@ public class Literals {
         long distance = 10000000000L; // Long literal with 'L' suffix(We have to use l or L suffix for the long data type.)
         boolean a = true;
         char c = 'A'; // Character literal with single quotes
-        String s = "Hello"; // String literal with double quotes
+        String str = "Hello"; // String literal with double quotes
 
         System.out.println("Character: " + c);
-        System.out.println("String: " + s);
+        System.out.println("String: " + str);
         System.out.println("Boolean: " + a);
         System.out.println("Long: " + distance);
         System.out.println("Integer: " + age);  
