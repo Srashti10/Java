@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exercise1",
+            "request": "launch",
+            "mainClass": "Exercise1",
+            "projectName": "Java_3d429c16"
+        },
+        {
+            "type": "java",
             "name": "TakingInput",
             "request": "launch",
             "mainClass": "TakingInput",
