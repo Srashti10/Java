@@ -15,6 +15,7 @@ public class Set1{
 
 
         // Calculate CGPA using marks
+        Scanner sc = new Scanner(System.in);
         System.out.println("Enter marks of Subject 1:");
         float sub1 = sc.nextFloat();
         System.out.println("Enter marks of Subject 2:");
